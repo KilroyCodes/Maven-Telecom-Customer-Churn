@@ -2,7 +2,7 @@
 ## Background
 After studying the data in [Maven's Telecoms Customer Churn Challenge](https://mavenanalytics.io/challenges/maven-churn-challenge), I found myself diving deeper and deeper into understanding churn itself. 
 
-For a condensed and structured read-through, I recommend visiting the presentation deck I've put together [here](https://github.com/KilroyCodes/Maven-Telecom-Customer-Churn/blob/1ad09b32f500dae32eab5f3ed23175cc378d2ab2/Modeling%20Customer%20Churn%20to%20Quantify%20Retention%20ROI.pdf).
+For a condensed and structured read-through, I recommend visiting the [presentation deck I've put together](https://github.com/KilroyCodes/Maven-Telecom-Customer-Churn/blob/1ad09b32f500dae32eab5f3ed23175cc378d2ab2/Modeling%20Customer%20Churn%20to%20Quantify%20Retention%20ROI.pdf).
 The deck goes over background of the problem, the analyses I used to answer the business questions, as well as a validation framework.
 
 ## Business Questions
