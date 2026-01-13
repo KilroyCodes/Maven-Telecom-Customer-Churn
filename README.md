@@ -5,7 +5,7 @@ After studying the data in [Maven's Telecoms Customer Churn Challenge](https://m
 For a condensed and structured read-through, I recommend visiting the presentation deck I've put together [here](https://github.com/KilroyCodes/Maven-Telecom-Customer-Churn/blob/1ad09b32f500dae32eab5f3ed23175cc378d2ab2/Modeling%20Customer%20Churn%20to%20Quantify%20Retention%20ROI.pdf).
 The deck goes over background of the problem, the analyses I used to answer the business questions, as well as a validation framework.
 
-### Business Questions
+## Business Questions
 * Churn Prediction (will this customer churn?)
 * Which variables contribute most to churn prediction?
 * What is the probability our customers (as a whole or as a segment) have not yet churned at X months? via Kaplan-Meier curves
@@ -13,13 +13,13 @@ The deck goes over background of the problem, the analyses I used to answer the 
 * What is our customers' baseline expected tenure? and what would be the change to this if we engaged in any interventions?
 * Based on this uplift to tenure, what is our expected incremental revenue?
 
-### Tools Used
+## Tools Used
 * XGBoost
 * Kaplan-Meier Curves
 * Cox Proportional Hazards
 * Baseline Survival Analyses
 
-### Links
+## Links
 **Presentation Deck**
 * [Modeling Customer Churn to Quantify Retention ROI](https://github.com/KilroyCodes/Maven-Telecom-Customer-Churn/blob/1ad09b32f500dae32eab5f3ed23175cc378d2ab2/Modeling%20Customer%20Churn%20to%20Quantify%20Retention%20ROI.pdf)
    
